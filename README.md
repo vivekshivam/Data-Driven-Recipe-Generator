@@ -1,6 +1,6 @@
-# **Recipe Genie: Using Machine Learning to Find Recipes Based on Ingredients You Already Have**
+# **Recipe Generator: Using Machine Learning to Find Recipes Based on Ingredients You Already Have**
 
-**Recipe Genie** is a web application designed to help users discover recipes based on the ingredients they already have on hand. Just enter your ingredients, and Recipe Genie will provide a list of delicious recipes to try!
+**Recipe Explore** is a web application designed to help users discover recipes based on the ingredients they already have on hand. Just enter your ingredients, and Recipe Explore will provide a list of delicious recipes to try!
 
 ---
 
@@ -24,13 +24,13 @@
 
 ## **Introduction**
 
-People often stick to a limited set of recipes in their weekly routines, sometimes due to the risk of trying new dishes that may not suit their tastes, potentially leading to wasted ingredients. Recipe Genie aims to make meal planning easier and less repetitive by helping users discover new recipes based on the ingredients they already have.
+People often stick to a limited set of recipes in their weekly routines, sometimes due to the risk of trying new dishes that may not suit their tastes, potentially leading to wasted ingredients. Recipe Explore aims to make meal planning easier and less repetitive by helping users discover new recipes based on the ingredients they already have.
 
 ---
 
 ## **Project Objective**
 
-The objective of Recipe Genie is to diversify users' meal options by recommending dishes that align with their available ingredients and preferences. This helps users expand their weekly menus without extra shopping or complex preparation.
+The objective of Recipe Explore is to diversify users' meal options by recommending dishes that align with their available ingredients and preferences. This helps users expand their weekly menus without extra shopping or complex preparation.
 
 ---
 
@@ -44,7 +44,7 @@ The objective of Recipe Genie is to diversify users' meal options by recommendin
 
 ## **Features**
 
-- **Ingredient-Based Recommendations**: Input your ingredients, and Recipe Genie will suggest recipes that use what you already have.
+- **Ingredient-Based Recommendations**: Input your ingredients, and Recipe Explore will suggest recipes that use what you already have.
 - **Flexible Search**: Supports a wide range of ingredients for almost any pantry combination.
 - **Detailed Recipe Information**: Provides titles, descriptions, prep time, ingredients, and instructions for each recipe.
 - **Interactive User Interface**: Designed for ease of use, allowing seamless recipe exploration and discovery.
@@ -105,7 +105,7 @@ For recommending recipes:
 
 ## **Summary of Results**
 
-Recipe Genie generates personalized recipe recommendations using cosine similarity, helping users make the most of their available ingredients, saving both time and effort.
+Recipe Explore generates personalized recipe recommendations using cosine similarity, helping users make the most of their available ingredients, saving both time and effort.
 
 ---
 
